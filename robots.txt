@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.vkari.co.uk
+Sitemap: https://www.vkari.co.uk/sitemap.xml
